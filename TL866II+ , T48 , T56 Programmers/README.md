@@ -74,8 +74,12 @@ _For Adapter users, use default "ZIF Socket" option._
 If error, check all the connections again.
   
 ### 4. Download the appropriate pre-compiled HEX file that corresponds to your console:-  
-https://github.com/nostalgic-indulgences/PSNee_V8/tree/main/HEX
-  
+ATMEGA328  
+https://github.com/nostalgic-indulgence/PSNee_V8/tree/main/HEX%20-%20ATMEGA328%20-%20No%20Bootloader  
+
+ATMEGA168  
+https://github.com/nostalgic-indulgence/PSNee_V8/tree/main/HEX%20-%20ATMEGA168%20-%20No%20Bootloader
+
 Load the HEX file you have downloaded and leave all the settings as default.
   
 ![HEX_SELECT](images/XGPRO2.png)
