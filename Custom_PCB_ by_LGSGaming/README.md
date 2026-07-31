@@ -1,7 +1,9 @@
 # PSnee V8 PCB
 
 Compact PCB designed for PSnee v8 code by postal2201.
-
+  
+![PCB](https://github.com/nostalgic-indulgence/PSNee_V8/blob/main/Custom_PCB_%20by_LGSGaming/PSNeeV8_PCB.png?raw=true)
+  
 ## BOM
 - 0603 10kΩ Resistor
 - 0603 100nF MLCC
